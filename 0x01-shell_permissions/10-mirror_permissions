@@ -1,2 +1,2 @@
-#/bin/bash
-chmod u+reference-olleh hello
+#!/bin/bash
+chmod u+ reference-ollen hello
